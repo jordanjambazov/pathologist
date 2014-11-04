@@ -1,5 +1,5 @@
-Pathlogist
-==========
+Pathologist
+===========
 
 In the process of project development multiple failures happen. Those "postmortems" shall be traced
 and transform in learned lessons. The focus of the project is to provide a management system for those
